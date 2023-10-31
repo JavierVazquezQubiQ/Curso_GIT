@@ -12,3 +12,5 @@ PR (Pull Request): Se trata de el proceso de actualización del repositorio en e
 
 La ventaja principal de tener un área de preparación y un área de trabajo es que podemos elegir (con git add)
 que modificaciones subimos al servidor.
+
+El proceso de MERGE se utiliza para verificar manualmente que cambios queremos implementar en nuestro código, entra en juego cuando tenemos conflictos en el mismo documento.
