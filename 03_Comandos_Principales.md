@@ -6,12 +6,12 @@ echo "Test" >> test.txt
 
 Crea un documento de texto en el proyecto con una linea dentro que pone "Test" y nombre del archivo "test.txt". Este comando crea un documento en el formato que le especifiquemos como por ejemplo ".md", ".csv" o lo que sea.
 
-
+------------------------------------------------------------------------------------------------------------------
 
 git --help
 Nos da un listado de comandos con una descripción de lo que hace cada uno:
 
-
+------------------------------------------------------------------------------------------------------------------
 
 git branch
 Consultar el listado de ramas:
