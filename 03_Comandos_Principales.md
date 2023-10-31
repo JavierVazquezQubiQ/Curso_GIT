@@ -1,6 +1,6 @@
-Resumen de comandos más utilizados:
+# Resumen de comandos más utilizados:
 
-
+------------------------------------------------------------------------------------------------------------------
 
 echo "Test" >> test.txt
 
@@ -9,6 +9,7 @@ Crea un documento de texto en el proyecto con una linea dentro que pone "Test" y
 ------------------------------------------------------------------------------------------------------------------
 
 git --help
+
 Nos da un listado de comandos con una descripción de lo que hace cada uno:
 
 ------------------------------------------------------------------------------------------------------------------
