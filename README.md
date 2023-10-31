@@ -32,5 +32,6 @@ Cambia de rama y si no existe esta rama creamela:
 
 git checkout -b "nombre"
 
-Nos dice en que rama estamos y si tenemos algún commit pendiente de subir./n
+Nos dice en que rama estamos y si tenemos algún commit pendiente de subir:
+
 git status
