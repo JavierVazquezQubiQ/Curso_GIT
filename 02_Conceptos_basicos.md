@@ -1,14 +1,12 @@
 # Conceptos básicos
 
-REPOSITORIO es un espacio virtual donde almacenamos un proyecto.
+REPOSITORIO: Espacio virtual donde almacenamos un proyecto.
 
-RAMA es un espacio de trabajo dentro del repositorio. Trabajar con ramas nos permite trabajar de forma independiente. GIT nos permite duplicar estos espacios de trabajo y realizar cambios para que varias personas puedan trabajar de forma paralela.
+RAMA: Espacio de trabajo dentro del repositorio. Trabajar con ramas nos permite trabajar de forma independiente. GIT nos permite duplicar estos espacios de trabajo y realizar cambios para que varias personas puedan trabajar de forma paralela.
 
 COMMIT: Actualización de cambió en alguna rama. Cada rama tiene un histórico de commits o cambios. Con este sistema de control de versiones podemos hacer y desacer cambios concretos. Los commits guardan la información de los cambios que hemos realizado en una rama.
 
 PR (Pull Request): Se trata de el proceso de actualización del repositorio en el que se añaden las ramas modificadas en las que se ha estado trabajando a la rama principal o máster del proyecto.
-
-
 
 ## Proceso de trabajo: CLONAMOS PROYECTO, CREAMOS RAMA, MODIFICAMOS Y TRABAJAMOS, GIT ADD, GIT COMMIT, GIT PUSH
 
