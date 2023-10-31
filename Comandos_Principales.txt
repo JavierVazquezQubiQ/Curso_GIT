@@ -2,11 +2,21 @@ Resumen de comandos más utilizados:
 
 
 
+Crea un documento de texto en el proyecto con una linea dentro que pone "Test" y nombre del archivo "test.txt":
+
+echo "Test" >> test.txt
+
+
+
 Nos da un listado de comandos con una descripción de lo que hace cada uno:
 
 git --help
 
 
+
+Consultar el listado de ramas:
+
+git branch
 
 Cambiar de rama, si la rama no existe devuelve un error:
 
@@ -24,19 +34,14 @@ git status
 
 
 
-Agrega cambios al proceso de validación previo a la subida y actualización del repositorio:
+Agrega cambios al proceso de validación previo a la subida y actualización del repositorio (del área
+de trabajo o working directory al área de preparación o stagint area):
 
 git add "nombre_documento"
 
-Agrega cambios al proceso anteriormente descrito de todos los archivos modificados:
+Agrega cambios al proceso anteriormente descrito masivamente de todos los archivos modificados:
 
 git add .
-
-
-
-Crea un documento de texto en el proyecto con una linea dentro que pone "Test" y nombre del archivo "test.txt"
-
-echo "Test" >> test.txt
 
 
 
