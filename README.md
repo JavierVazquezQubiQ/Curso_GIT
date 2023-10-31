@@ -20,14 +20,17 @@ En este curso vamos a aprender a usar la operatica principal de GIT además de t
 
 Resumen de comandos más utilizados:
 
-Nos da un listado de comandos con una descripción de lo que hace cada uno.
+Nos da un listado de comandos con una descripción de lo que hace cada uno:
+
 git --help
 
-Cambiar de rama, si la rama no existe devuelve un error.
+Cambiar de rama, si la rama no existe devuelve un error:
+
 git checkout "nombre"
 
-Cambia de rama y si no existe esta rama creamela.
+Cambia de rama y si no existe esta rama creamela:
+
 git checkout -b "nombre"
 
-Nos dice en que rama estamos y si tenemos algún commit pendiente de subir.
+Nos dice en que rama estamos y si tenemos algún commit pendiente de subir./n
 git status
