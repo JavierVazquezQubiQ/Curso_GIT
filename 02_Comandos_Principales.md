@@ -94,3 +94,7 @@ Podemos revertir el número de commits que queramos para restablecer los cambios
 
 ------------------------------------------------------------------------------------------------------------------
 
+git pull
+
+Descarga, extrae y actualiza documentos de un repositorio al instante
+
